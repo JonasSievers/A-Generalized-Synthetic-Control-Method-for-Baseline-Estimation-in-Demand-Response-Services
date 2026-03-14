@@ -1,10 +1,6 @@
 # Generalized Synthetic Control Method (GSCM) for Baseline Estimation
 
 <p align="center">
-  <a href="ACC_Github_Generalized_SCM.pdf"><strong>📄 Read the Full Paper</strong></a>
-</p>
-
-<p align="center">
   A generalized synthetic control framework for dynamic baseline estimation in Demand Response electricity markets.
 </p>
 
@@ -20,17 +16,10 @@ The full mathematical derivation, experimental setup, and detailed results are a
 
 ## Visual Abstract
 
-> GitHub does not render PDF files inline as images in a README.  
-> If `abstract.pdf` is meant to be shown visually, convert it to `abstract.png` (recommended) and use the block below.
-
 <p align="center">
-  <a href="abstract.pdf">
+  <a href="abstract.png">
     <img src="abstract.png" alt="Visual abstract of the Generalized Synthetic Control Method" width="900"/>
   </a>
-</p>
-
-<p align="center">
-  <em>Click the image to open the full abstract PDF.</em>
 </p>
 
 ---
