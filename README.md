@@ -8,23 +8,19 @@
 
 ## Paper
 
-The full mathematical derivation, experimental setup, and detailed results are available in the paper:
+The full mathematical detail, experimental setup, and results are available in the paper:
 
 📄 **[ACC_Github_Generalized_SCM.pdf](ACC_Github_Generalized_SCM.pdf)**
 
 ---
 
-## Visual Abstract
+## Abstract
 
 <p align="center">
-  <a href="abstract.png">
-    <img src="abstract.png" alt="Visual abstract of the Generalized Synthetic Control Method" width="900"/>
+  <a href="abstract.PNG">
+    <img src="abstract.PNG" alt="Visual abstract of the Generalized Synthetic Control Method" width="900"/>
   </a>
 </p>
-
----
-
-## Abstract
 
 Baseline estimation is critical to Demand Response (DR) settlement in electricity markets, yet existing machine learning methods remain limited in predictive performance, while methodologies from causal inference and counterfactual prediction are still underutilized in this domain.
 
